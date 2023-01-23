@@ -10,12 +10,13 @@ The webpage was built with all accessibility standards in mind. In this first ch
 - All links working correctly
 
 ## Installation
-
+The app is deployed using link https://alexsosei.github.io/html-css-git-challenge/ 
 ## Usage
-
+The web app is registered and displayed in screenshot below 
 ## License
-
+The license used is MIT license
 ## Features
-
+The feature branch is called feature/css
 ## Tests
+The app was tesed using open live server many times. 
 
