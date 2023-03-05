@@ -18,5 +18,5 @@ The license used is MIT license
 ## Features
 The feature branch is called feature/css
 ## Tests
-The app was tesed using open live server many times. 
+The app was tested using open live server many times. 
 
